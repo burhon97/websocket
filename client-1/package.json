@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "compile": "tsc -b -w",
+    "compile": "tsc -b",
     "start": "node ./_/client.js"
   },
   "keywords": [],

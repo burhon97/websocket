@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "tsc -b -w",
+    "compile": "tsc -b",
     "start": "node ./_/server.js"
   },
   "keywords": [],

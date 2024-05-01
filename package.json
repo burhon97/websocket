@@ -1,0 +1,12 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "This example chat with two client with `WebSocket`.",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "bash ./bootstrap.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

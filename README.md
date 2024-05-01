@@ -2,13 +2,20 @@
 
 This example chat with two client with `WebSocket`.
 
+## Installation
+
+To install and compile run following command:
+
+```bash
+npm run bootstrap
+```
+
 ## Usage
 
 1. Lets start our server:
 
 ```bash
 cd ./server
-npm run compile
 npm start
 ```
 
@@ -16,7 +23,6 @@ npm start
 
 ```bash
 cd ./client-1
-npm run compile
 npm start
 ```
 
@@ -24,10 +30,9 @@ npm start
 
 ```bash
 cd ./client-2
-npm run compile
 npm start
 ```
 
 4. Lets chats with clients:
 
-![](./assets/chat-websocket.gif)
+![chat-websocket](./assets/chat-websocket.gif)
